@@ -66,5 +66,3 @@ A responsive task management application where authenticated users can create ta
 - **Limitations**:
   - Requires valid Firebase and MongoDB Atlas credentials to function fully. Without a valid `MONGODB_URI`, the backend server will start but API calls will fail.
 
-## 🤖 AI Usage Summary
-This application was built using Google's Antigravity AI coding assistant. The AI planned the application architecture, scaffolded the frontend and backend structure, authored the components, wrote the API routes, and configured Tailwind CSS and Vite.
